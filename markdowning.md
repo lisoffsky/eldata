@@ -7,6 +7,9 @@
 
 [Карта голосування в окрузі №114 Луганщина. Липень 2016 року](http://lisoffsky.github.io/eldata/html%20with%20text%20114%20okruh.html)
 
+
 contact
+
 fb.com/lisoffsky
+
 twitter.com/lisoffsky
